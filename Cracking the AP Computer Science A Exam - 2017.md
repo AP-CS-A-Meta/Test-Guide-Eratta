@@ -8,7 +8,7 @@ Errors found in the first edition, ISBN: 978-1-101-91988-0
 
 Answer (A) uses 'P' where it should use 'p' as argument to println(). Since (A) is the correct answer, a student could mistakenly feel that there was no correct answer.
 
-## Question 8
+### Question 8
 
 The expression:
 
