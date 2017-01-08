@@ -8,8 +8,26 @@ Errors found in the first edition, ISBN: 978-1-101-91988-0
 
 Answer (A) uses 'P' where it should use 'p' as argument to println().
 
+## Question 8
+
+The expression:
+
+```java
+b = a | | b;
+```
+
+will not compile, should be:
+
+```java
+b = a || b;
+```
+
 ### Question 11
 
 As written the code will not compile, missing semi-colons on the first two print statements.
 
 The output is ambiguous, spaces that would not appear in the output are shown in the answers.
+
+## Page 78
+
+Unreferenced asterisk (on ambiguity).
